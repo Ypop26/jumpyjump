@@ -1,0 +1,10 @@
+Library
+Temp
+Logs
+MemoryCaptures
+obj
+UserSettings
+.vs
+SwitchIL2CPPCache
+SwitchIL2CPPStats
+#All the *.csproj and *.sln files located in the project root directory
